@@ -89,6 +89,11 @@ h2 {
 }
 
 /*navigasi*/
+
+* {
+    box-sizing: border-box;
+}
+
 header {
     background-color: #1f4e79;
     color: white;
